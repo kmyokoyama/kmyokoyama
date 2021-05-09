@@ -14,10 +14,10 @@ You can also contact me on
 ```clojure
 (def kmyokoyama {:name      "Kazuki Yokoyama"
 
-                 :working   {:role    "Software engineer"
+                 :working   {:role    "Software Engineer"
                              :company "Nubank"}
 
-                 :education {:field  "Computer engineering"
+                 :education {:field  "Computer Engineering"
                              :school "Universidade Federal do Rio Grande do Sul"}
 
                  :location  {:city    "Porto Alegre"
