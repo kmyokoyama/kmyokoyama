@@ -31,7 +31,7 @@ You can also contact me on
 
 ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=federico-dondi&show_icons=true&hide_border=true&hide_title=true)
 
-### Other sections
+### Other interesting sections 👀
 
-* [Presentations](presentations/README.md)
-* [Reviews](reviews/README.md)
+🎤 [Presentations](presentations/README.md)  
+📘 [Book Reviews](reviews/README.md)  
