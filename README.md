@@ -33,5 +33,6 @@ You can also contact me on
 
 ### Other interesting sections 👀
 
+📃 [Resume (for the old-fashioned)](https://bit.ly/2W7ZCDY)  
 🎤 [Presentations](presentations/README.md)  
 📘 [Book Reviews](reviews/README.md)  
