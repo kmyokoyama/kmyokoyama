@@ -20,8 +20,8 @@ You can also contact me on
                  :education {:field  "Computer Engineering"
                              :school "Universidade Federal do Rio Grande do Sul"}
 
-                 :location  {:city    "Porto Alegre"
-                             :state   "Rio Grande do Sul"
+                 :location  {:city    "São Paulo"
+                             :state   "São Paulo"
                              :country "Brazil"}
 
                  :langs     #{"Clojure" "Java" "Go" "Python"}})
